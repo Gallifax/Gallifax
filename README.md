@@ -6,7 +6,7 @@
 <code>🌍 Member of the student organization of programmers [Metaboros](https://github.com/Metaboros)</code>
 <code>🏆 Chief manager of the educational center [DZYNIK](https://www.dzynik.com/)</code>
 
-You can contact me by:
+**Сontact me by:**
 <code>💬 Telegram: [@d0ntpingme](https://telegram.me/d0ntpingme)</code>
 <code>🔭 [LinkedIn](https://www.linkedin.com/)</code>
 <code>📫 [yrebrikov@gmail.com](mailto:yrebrikov@gmail.com)</code>
