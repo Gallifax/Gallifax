@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Yaroslav 👋
 
-<!--
-**Gallifax/Gallifax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>💻 [Python developer](https://github.com/SergeyOcheretenko/LearningProgramming)</code>
+<code>🍊 Open to Intern/Trainee Developer/Mathematician</code>
+<code>🎓 Student at Kyiv Polytechnic Institute, Mathematics</code>
+<code>🌍 Member of the student organization of programmers [Metaboros](https://github.com/Metaboros)</code>
+<code>🏆 Chief manager of the educational center [DZYNIK](https://www.dzynik.com/)</code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Сontact me by:**
+<code>💬 Telegram: [@d0ntpingme](https://telegram.me/d0ntpingme)</code>
+<code>🔭 [LinkedIn](https://www.linkedin.com/)</code>
+<code>📫 [yrebrikov@gmail.com](mailto:yrebrikov@gmail.com)</code>
